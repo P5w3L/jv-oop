@@ -5,6 +5,7 @@ public class Bulldozer extends Machine {
     public void doWork() {
 
     }
+
     @Override
     public void stopWork() {
 
